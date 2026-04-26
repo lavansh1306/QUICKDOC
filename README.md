@@ -50,20 +50,6 @@ The app is intentionally minimal, UI-first, and powered by local mock data.
 
 ---
 
-## 📂 Project Structure
-QUICKDOC/
-├── QUICKDOCApp.swift
-├── LoginView.swift
-├── DoctorListView.swift
-├── BookingView.swift
-├── Doctor.swift
-├── MockData.swift
-├── ContentView.swift
-└── SCREENSHOTS/
-├── LOGIN.png
-├── DOCTOR_LIST.png
-├── doctor_appointment.png
-└── Appointement_Succesfull.png
 
 ## 📱 App Flow
 
